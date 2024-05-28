@@ -18,7 +18,7 @@ Este é um bot de atendimento desenvolvido para o Telegram, utilizando Node.js, 
 
 1. Clone este repositório:
    ```
-   git clone 
+   git clone https://github.com/BrunoLFerrari/BotTelegram.git
    ```
 
 2. Abra a pasta do projeto com sua IDE.
